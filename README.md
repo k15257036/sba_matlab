@@ -8,7 +8,7 @@ This matlab code can be used in the situation like following:
 2.And then you calulate the feature points' 3d coordinates according to the triangulation principle(Such as stereo_triangulation.m in matlab calibration toolbox.
 Download address:http://www.vision.caltech.edu/bouguetj/calib_doc/download/index.html). 
 
-3.Howerver, the 3d coordinates you got are just in a local coordinate system. So you take some point cloud registration and stitching methods to make them in a same global coordinate system.
+3.However, the 3d coordinates you got are just in a local coordinate system. So you take some point cloud registration and stitching methods to make them in a same global coordinate system.
 
 4.There often exists stitching error which you want to reduce. An efficient way is bundle adjustment, or sparse bundle adjustment in this situation.
 
