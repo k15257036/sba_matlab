@@ -19,3 +19,5 @@ Download address:http://www.vision.caltech.edu/bouguetj/calib_doc/download/index
  
  Some data and example code are provided for testing. 
  If you have any question or suggestion, please feel free to send an email to tracytrunks@163.com
+
+Reference:  SBA: A Software Package for Generic Sparse Bundle Adjustment http://users.ics.forth.gr/~lourakis/sba/sba-toms.pdf
